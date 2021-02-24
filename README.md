@@ -11,7 +11,7 @@ a tiny cute site for sharing pogo friendcodes in my local community
    `code` varchar(12) NOT NULL,
    `created_at` varchar(255) NOT NULL,
    PRIMARY KEY (`id`)
-  ) ENGINE=InnoDB AUTO_INCREMENT=55 DEFAULT CHARSET=latin1
+  ) ENGINE=InnoDB AUTO_INCREMENT=0 DEFAULT CHARSET=latin1
 ```
 3. Fill in the database credentials in the config.ini file.
 
